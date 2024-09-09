@@ -1,0 +1,8 @@
+1、 远程进入服务器
+2、 创建路径/home/tuners
+mkdir  /home/tuners
+3、拷贝脚本文件到/home/tuners路径下、切换到该路径下
+4、 修改wvp服务器IP
+5、执行脚本，等待编译安装运行完成
+
+source  wvp-compile-install.sh
